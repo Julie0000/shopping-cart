@@ -13,7 +13,9 @@ export default function Navbar() {
 
   return (
     <nav className={styles.navbar}>
-      <h2 className={styles.link}>Galaxy Shop</h2>
+      <h2 className={styles.link}>
+        <Link href="/">Galaxy Shop</Link>
+      </h2>
       <ul className={styles.links}>
         <li className={styles.navlink}>
           <Link href="/">Home</Link>
