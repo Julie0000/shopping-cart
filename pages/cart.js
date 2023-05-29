@@ -39,12 +39,17 @@ const CartPage = () => {
           </div>
           {cart.map((item) => (
             <div className={styles.body}>
-              <div className={styles.image}>
-                <Image src={item.image} height="90" width="65" />
+              <div className={styles.imagecontainer}>
+                <Image
+                  className={styles.image}
+                  src={item.image}
+                  height="90"
+                  width="65"
+                />
               </div>
-              <p>{item.product}</p>
-              <p>$ {item.price}</p>
-              <p>{item.quantity}</p>
+              <p className={styles.product}>{item.product}</p>
+              <p className={styles.price}>$ {item.price}</p>
+              <p className={styles.quantity}>{item.quantity}</p>
               <div className={styles.buttons}>
                 <button onClick={() => dispatch(incrementQuantity(item.id))}>
                   +

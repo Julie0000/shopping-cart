@@ -9,6 +9,9 @@
   justify-content: center;
   align-items: center;
 }
+.image:hover {
+  transform: scale(1.1);
+}
 .cardinfo {
   height: 100px;
 }
@@ -33,4 +36,9 @@
 .button:hover {
   background: black;
   color: #49499f;
+}
+@media (max-width: 540px) {
+  .cardinfo {
+    height: 80px;
+  }
 }

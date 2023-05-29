@@ -27,8 +27,11 @@
 .body > * {
   flex: 1;
 }
-.image {
+.imagecontainer {
   width: 100px;
+}
+.image {
+  object-fit: cover;
 }
 .buttons > * {
   width: 25px;
@@ -38,4 +41,15 @@
   border: none;
   margin: 0.5rem;
   font-size: 1rem;
+}
+@media (max-width: 540px) {
+  .container {
+    padding: 0 2rem;
+  }
+  .header div,
+  .product,
+  .price,
+  .quantity {
+    font-size: 0.5rem;
+  }
 }

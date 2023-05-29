@@ -13,3 +13,8 @@
   gap: 2.5rem 1rem;
   place-items: center;
 }
+@media (max-width: 540px) {
+  .title {
+    font-size: 1.2rem;
+  }
+}
