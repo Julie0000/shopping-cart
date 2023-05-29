@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "product": "The Spanish Dancer Spiral Galaxy",
+    "category": "galaxy",
+    "image": "https://imgur.com/uDiTVWg.jpeg",
+    "price": 450.44
+  },
+  {
+    "id": 2,
+    "product": "The Helix Nebula from CFHT",
+    "category": "galaxy",
+    "image": "https://imgur.com/BgtxEg4.jpeg",
+    "price": 270.99
+  },
+  {
+    "id": 3,
+    "product": "The Medulla Nebula Supernova Remnant",
+    "category": "galaxy",
+    "image": "https://imgur.com/FX7vZx6.jpeg",
+    "price": 567.98
+  },
+  {
+    "id": 4,
+    "product": "NGC 3628",
+    "category": "galaxy",
+    "image": "https://imgur.com/fXFwBur.jpeg",
+    "price": 4.56
+  },
+  {
+    "id": 5,
+    "product": "NGC 1333: Stellar Nursery in Perseus",
+    "category": "galaxy",
+    "image": "https://imgur.com/443mpfv.jpeg",
+    "price": 467.22
+  },
+  {
+    "id": 6,
+    "product": " RCW 86: Historical Supernova Remnant",
+    "category": "galaxy",
+    "image": "https://imgur.com/Mj7aUsZ.jpeg",
+    "price": 29.35
+  },
+  {
+    "id": 7,
+    "product": "Orion and the Running Man",
+    "category": "galaxy",
+    "image": "https://imgur.com/NkoyuEv.jpeg",
+    "price": 18.99
+  },
+  {
+    "id": 8,
+    "product": "Mercury",
+    "category": "planet",
+    "image": "https://imgur.com/vfA7gxI.jpegg",
+    "price": 29.99
+  },
+  {
+    "id": 9,
+    "product": "Venus",
+    "category": "planet",
+    "image": "https://imgur.com/wKLQsfu.jpegg",
+    "price": 69.99
+  },
+  {
+    "id": 10,
+    "product": "Earth",
+    "category": "planet",
+    "image": "https://imgur.com/jeUf88T.jpeg",
+    "price": 69.99
+  },
+  {
+    "id": 11,
+    "product": "Mars",
+    "category": "planet",
+    "image": "https://imgur.com/jD9iL50.jpeg",
+    "price": 29.99
+  },
+  {
+    "id": 12,
+    "product": "Jupiter",
+    "category": "planet",
+    "image": "https://imgur.com/yATCuuS.jpeg",
+    "price": 46.55
+  },
+  {
+    "id": 13,
+    "product": "Saturn",
+    "category": "planet",
+    "image": "https://imgur.com/qo2AzBf.jpeg",
+    "price": 19.9
+  },
+  {
+    "id": 14,
+    "product": "Uranus",
+    "category": "planet",
+    "image": "https://imgur.com/FHe8sNZ.jpeg",
+    "price": 59.88
+  },
+  {
+    "id": 15,
+    "product": "Neptune",
+    "category": "planet",
+    "image": "https://imgur.com/XyLM2ln.jpeg",
+    "price": 49.99
+  },
+  {
+    "id": 16,
+    "product": "new distant planet with green Atlantic Ocean",
+    "category": "planet",
+    "image": "https://imgur.com/YDBmT9T.jpeg",
+    "price": 42.99
+  },
+  {
+    "id": 17,
+    "product": "“GJ 1214B” is made of pure water",
+    "category": "planet",
+    "image": "https://imgur.com/Ws7dzTU.jpeg",
+    "price": 59.99
+  },
+  {
+    "id": 18,
+    "product": "first potentially habitable planet Kepler-186f",
+    "category": "planet",
+    "image": "https://imgur.com/BQf2Qkd.png",
+    "price": 888.99
+  },
+  {
+    "id": 19,
+    "product": "Active Sun",
+    "category": "planet",
+    "image": "https://imgur.com/yDTatmt.jpeg",
+    "price": 999.99
+  },
+  {
+    "id": 20,
+    "product": "Ancient Mars Map",
+    "category": "souvenir",
+    "image": "https://imgur.com/trYfs19.jpeg",
+    "price": 7.77
+  },
+  {
+    "id": 21,
+    "product": "A Well-traveled Beagle",
+    "category": "souvenir",
+    "image": "https://imgur.com/z1pehrT.jpeg",
+    "price": 90.99
+  },
+  {
+    "id": 22,
+    "product": "Flight Simulator 2020",
+    "category": "souvenir",
+    "image": "https://imgur.com/2IeocI8.png",
+    "price": 67.99
+  },
+  {
+    "id": 23,
+    "product": "NASA space settlement",
+    "category": "souvenir",
+    "image": "https://imgur.com/nM6MkZ6.jpeg",
+    "price": 59.22
+  },
+  {
+    "id": 24,
+    "product": "Comet 67/P",
+    "category": "souvenir",
+    "image": "https://imgur.com/xJUczLt.jpeg",
+    "price": 29.99
+  },
+  {
+    "id": 25,
+    "product": "Comet 67877/Seige",
+    "category": "souvenir",
+    "image": "https://imgur.com/GmWWqmN.jpeg",
+    "price": 58.93
+  },
+  {
+    "id": 26,
+    "product": "Map of the Star Wars Galaxy",
+    "category": "souvenir",
+    "image": "https://imgur.com/WTWYI67.jpeg",
+    "price": 59.0
+  },
+  {
+    "id": 27,
+    "product": "N1 mission",
+    "category": "activity",
+    "image": "https://imgur.com/GGSVzID.png",
+    "price": 656.0
+  },
+  {
+    "id": 28,
+    "product": "Space Station Peek",
+    "category": "activity",
+    "image": "https://imgur.com/GTFpVFl.jpeg",
+    "price": 12.99
+  },
+  {
+    "id": 29,
+    "product": "To Fly Free in Space",
+    "category": "activity",
+    "image": "https://imgur.com/H9QiEyd.jpeg",
+    "price": 0
+  },
+  {
+    "id": 30,
+    "product": "To get chance walk on moon",
+    "category": "activity",
+    "image": "https://imgur.com/YXYHViX.jpeg",
+    "price": 13.967
+  }
+]

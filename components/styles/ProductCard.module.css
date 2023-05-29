@@ -1,0 +1,36 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  width: 220px;
+}
+.image {
+  object-fit: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cardinfo {
+  height: 100px;
+}
+.title {
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.category {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+}
+.button {
+  width: 100%;
+  margin-top: 0.5rem;
+  padding: 0.75rem 0;
+  background: transparent;
+  text-transform: uppercase;
+  border: 2px solid white;
+  cursor: pointer;
+}
+.button:hover {
+  background: black;
+  color: #49499f;
+}
