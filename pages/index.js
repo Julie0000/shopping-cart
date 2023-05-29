@@ -5,28 +5,13 @@ export default function HomePage() {
   return (
     <main className={styles.container}>
       <div className={styles.small}>
-        <CategoryCard
-          image="https://imgur.com/uDiTVWg.jpeg"
-          name="The Spanish Dancer Spiral Galaxy"
-        />
-        <CategoryCard
-          image="https://imgur.com/BgtxEg4.jpeg"
-          name="The Helix Nebula from CFHT"
-        />
-        <CategoryCard
-          image="https://imgur.com/FX7vZx6.jpeg"
-          name="The Medulla Nebula Supernova Remnant"
-        />
+        <CategoryCard image="https://imgur.com/uDiTVWg.jpeg" name="galaxy" />
+        <CategoryCard image="https://imgur.com/vfA7gxI.jpegg" name="planet" />
+        <CategoryCard image="https://imgur.com/z1pehrT.jpeg" name="souvenir" />
       </div>
       <div className={styles.large}>
-        <CategoryCard
-          image="https://imgur.com/H9QiEyd.jpeg"
-          name="To Fly Free in Space"
-        />
-        <CategoryCard
-          image="https://imgur.com/YXYHViX.jpeg"
-          name="To get chance walk on moon"
-        />
+        <CategoryCard image="https://imgur.com/H9QiEyd.jpeg" name="activity" />
+        <CategoryCard image="https://imgur.com/YXYHViX.jpeg" name="species" />
       </div>
     </main>
   );
