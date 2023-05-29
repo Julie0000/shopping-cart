@@ -208,5 +208,26 @@
     "category": "activity",
     "image": "https://imgur.com/YXYHViX.jpeg",
     "price": 13.967
+  },
+  {
+    "id": 31,
+    "product": "a dinosaur footprint in my yard",
+    "category": "species",
+    "image": "https://imgur.com/KkZ1WHi.jpeg",
+    "price": 999.99
+  },
+  {
+    "id": 32,
+    "product": "something in the snow",
+    "category": "species",
+    "image": "https://imgur.com/53RJ1EL.jpeg",
+    "price": 1.66
+  },
+  {
+    "id": 33,
+    "product": "fossil on the moon",
+    "category": "species",
+    "image": "https://imgur.com/vanTyC2.jpeg",
+    "price": 55.33
   }
 ]
